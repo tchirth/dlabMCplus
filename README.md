@@ -1,4 +1,4 @@
-# Cailchimp-Contacts+ Automation
+# Mailchimp-Contacts+ Automation
 This project is somewhat smaller in scale than Asana Automation and more straightforward, so this readme will mainly just contain issues and a brief overview of each workflow.
 
 To read on workflows, and how Pipedream works see [this section from the Asana Automation documentation](https://github.com/tchirth/DesignLabAsanaAutomation#pipedream).
