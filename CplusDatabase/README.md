@@ -25,3 +25,9 @@ function countRows(arr) {
 }
 ```
 For more information on creating custom functions in Google Sheets, click [here](https://developers.google.com/apps-script/guides/sheets/functions).
+
+
+## Step Order
+1. steps.params
+2. steps.access_token
+3. steps.list
